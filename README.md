@@ -46,7 +46,7 @@ Make sure your .gitignore includes:
 
 .venv\
 
-__pycache__/
+__pycache__/   (with two underscores_ infront and behind pychache)
 
 <br>
 
